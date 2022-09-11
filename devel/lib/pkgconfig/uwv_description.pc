@@ -1,0 +1,8 @@
+prefix=/home/dharmesh/sauvc_ws/devel
+
+Name: uwv_description
+Description: Description of uwv_description
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

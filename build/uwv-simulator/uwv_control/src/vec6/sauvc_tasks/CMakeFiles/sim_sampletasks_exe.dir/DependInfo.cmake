@@ -1,0 +1,55 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/dharmesh/sauvc_ws/src/uwv-simulator/uwv_control/src/common/pid_rotate.cpp" "/home/dharmesh/sauvc_ws/build/uwv-simulator/uwv_control/src/vec6/sauvc_tasks/CMakeFiles/sim_sampletasks_exe.dir/__/__/common/pid_rotate.cpp.o"
+  "/home/dharmesh/sauvc_ws/src/uwv-simulator/uwv_control/src/common/pid_translate.cpp" "/home/dharmesh/sauvc_ws/build/uwv-simulator/uwv_control/src/vec6/sauvc_tasks/CMakeFiles/sim_sampletasks_exe.dir/__/__/common/pid_translate.cpp.o"
+  "/home/dharmesh/sauvc_ws/src/uwv-simulator/uwv_control/src/vec6/common/terminal_getch.cpp" "/home/dharmesh/sauvc_ws/build/uwv-simulator/uwv_control/src/vec6/sauvc_tasks/CMakeFiles/sim_sampletasks_exe.dir/__/common/terminal_getch.cpp.o"
+  "/home/dharmesh/sauvc_ws/src/uwv-simulator/uwv_control/src/vec6/common/vec6_comms.cpp" "/home/dharmesh/sauvc_ws/build/uwv-simulator/uwv_control/src/vec6/sauvc_tasks/CMakeFiles/sim_sampletasks_exe.dir/__/common/vec6_comms.cpp.o"
+  "/home/dharmesh/sauvc_ws/src/uwv-simulator/uwv_control/src/vec6/common/vec6_controller.cpp" "/home/dharmesh/sauvc_ws/build/uwv-simulator/uwv_control/src/vec6/sauvc_tasks/CMakeFiles/sim_sampletasks_exe.dir/__/common/vec6_controller.cpp.o"
+  "/home/dharmesh/sauvc_ws/src/uwv-simulator/uwv_control/src/vec6/common/vec6_simcontroller.cpp" "/home/dharmesh/sauvc_ws/build/uwv-simulator/uwv_control/src/vec6/sauvc_tasks/CMakeFiles/sim_sampletasks_exe.dir/__/common/vec6_simcontroller.cpp.o"
+  "/home/dharmesh/sauvc_ws/src/uwv-simulator/uwv_control/src/vec6/sauvc_tasks/sim_sampletasks_exe.cpp" "/home/dharmesh/sauvc_ws/build/uwv-simulator/uwv_control/src/vec6/sauvc_tasks/CMakeFiles/sim_sampletasks_exe.dir/sim_sampletasks_exe.cpp.o"
+  "/home/dharmesh/sauvc_ws/src/uwv-simulator/uwv_control/src/vec6/sauvc_tasks/sim_task_list.cpp" "/home/dharmesh/sauvc_ws/build/uwv-simulator/uwv_control/src/vec6/sauvc_tasks/CMakeFiles/sim_sampletasks_exe.dir/sim_task_list.cpp.o"
+  "/home/dharmesh/sauvc_ws/src/uwv-simulator/uwv_control/src/vec6/sauvc_tasks/tasks.cpp" "/home/dharmesh/sauvc_ws/build/uwv-simulator/uwv_control/src/vec6/sauvc_tasks/CMakeFiles/sim_sampletasks_exe.dir/tasks.cpp.o"
+  )
+set(CMAKE_CXX_COMPILER_ID "GNU")
+
+# Preprocessor definitions for this target.
+set(CMAKE_TARGET_DEFINITIONS_CXX
+  "BOOST_TEST_DYN_LINK"
+  "LIBBULLET_VERSION=2.88"
+  "LIBBULLET_VERSION_GT_282"
+  "ROSCONSOLE_BACKEND_LOG4CXX"
+  "ROS_BUILD_SHARED_LIBS=1"
+  "ROS_PACKAGE_NAME=\"uwv_control\""
+  )
+
+# The include file search paths:
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "/home/dharmesh/sauvc_ws/src/uwv-simulator/uwv_control/include"
+  "/opt/ros/noetic/include"
+  "/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"
+  "/usr/include/opencv4"
+  "/usr/include/gazebo-11"
+  "/usr/include/bullet"
+  "/usr/include/simbody"
+  "/usr/include/sdformat-9.5"
+  "/usr/include/ignition/math6"
+  "/usr/include/OGRE"
+  "/usr/include/OGRE/Terrain"
+  "/usr/include/OGRE/Paging"
+  "/usr/include/ignition/transport8"
+  "/usr/include/ignition/msgs5"
+  "/usr/include/ignition/common3"
+  "/usr/include/ignition/fuel_tools4"
+  "/home/dharmesh/sauvc_ws/src/uwv-simulator/uwv_control/src/vec6/common"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

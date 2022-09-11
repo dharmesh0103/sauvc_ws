@@ -1,0 +1,8 @@
+prefix=/home/dharmesh/sauvc_ws/devel
+
+Name: uwv_control
+Description: Description of uwv_control
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs sensor_msgs geometry_msgs cv_bridge

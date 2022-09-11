@@ -1,2 +1,2 @@
-freefloating_gazebo
+freefloating_gazebo:uwv-simulator/uwv_control:uwv-simulator/uwv_description:uwv-simulator/uwv_env
 -DCATKIN_DEVEL_PREFIX=/home/dharmesh/sauvc_ws/devel -DCMAKE_INSTALL_PREFIX=/home/dharmesh/sauvc_ws/install -G Unix Makefiles

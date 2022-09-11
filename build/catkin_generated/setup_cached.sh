@@ -7,7 +7,4 @@
 # new environment variables
 
 # modified environment variables
-export PKG_CONFIG_PATH='/opt/ros/noetic/lib/pkgconfig:/opt/ros/noetic/lib/x86_64-linux-gnu/pkgconfig'
 export PWD='/home/dharmesh/sauvc_ws/build'
-export PYTHONPATH='/opt/ros/noetic/lib/python3/dist-packages'
-export ROS_PACKAGE_PATH='/home/dharmesh/sauvc_ws/src:/opt/ros/noetic/share'
